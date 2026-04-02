@@ -1,0 +1,16 @@
+# ── Processor output zips (large, regenerable) ──
+output/*.zip
+
+# ── Log files ──
+logs/
+
+# ── Python cache ──
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ── OS noise ──
+.DS_Store
+Thumbs.db
+desktop.ini
